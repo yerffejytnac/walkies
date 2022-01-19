@@ -9,3 +9,9 @@ array_relationships:
       table:
         name: gps_point
         schema: public
+computed_fields:
+- definition:
+    function:
+      name: gps_track_geojson
+      schema: public
+  name: geojson
