@@ -1,0 +1,3 @@
+-- Could not auto-generate a down migration.
+-- Please write an appropriate down migration for the SQL below:
+-- SELECT AddGeometryColumn('public', 'gps_point', 'geom', 4326, 'POINT', 2);
