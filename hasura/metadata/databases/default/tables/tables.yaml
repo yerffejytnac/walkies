@@ -1,2 +1,5 @@
 - "!include public_gps_point.yaml"
 - "!include public_gps_track.yaml"
+- "!include public_walk.yaml"
+- "!include public_walk_event.yaml"
+- "!include public_walk_event_type.yaml"

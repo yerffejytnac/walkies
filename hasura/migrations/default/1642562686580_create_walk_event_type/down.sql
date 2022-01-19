@@ -1,0 +1,14 @@
+-- Could not auto-generate a down migration.
+-- Please write an appropriate down migration for the SQL below:
+-- CREATE TABLE walk_event_type (
+--     value text PRIMARY KEY,
+--     description text
+-- );
+--
+-- INSERT INTO walk_event_type (value, description) VALUES
+--     ('Start', ''),
+--     ('Stop', ''),
+--     ('Move', ''),
+--     ('Pee', ''),
+--     ('Poo', ''),
+--     ('Treat', '');

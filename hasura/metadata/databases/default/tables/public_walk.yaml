@@ -1,0 +1,11 @@
+table:
+  name: walk
+  schema: public
+array_relationships:
+- name: walk_events
+  using:
+    foreign_key_constraint_on:
+      column: walk_id
+      table:
+        name: walk_event
+        schema: public
