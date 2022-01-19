@@ -1,3 +1,11 @@
 table:
   name: gps_track
   schema: public
+array_relationships:
+- name: gps_points
+  using:
+    foreign_key_constraint_on:
+      column: gps_track_id
+      table:
+        name: gps_point
+        schema: public
