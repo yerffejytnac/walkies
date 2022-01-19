@@ -1,0 +1,3 @@
+table:
+  name: gps_track
+  schema: public

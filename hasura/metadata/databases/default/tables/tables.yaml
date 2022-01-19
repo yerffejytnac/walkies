@@ -1,1 +1,2 @@
-[]
+- "!include public_gps_point.yaml"
+- "!include public_gps_track.yaml"

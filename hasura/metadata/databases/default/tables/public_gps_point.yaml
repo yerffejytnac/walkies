@@ -1,0 +1,3 @@
+table:
+  name: gps_point
+  schema: public
